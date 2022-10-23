@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "ToonTanksEditor Editor Win64 Development (ToonTanks)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Udemy_Unreal_projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.31.31103/bin/HostX64/x64/cl.exe"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Udemy_Unreal_projects\\ToonTanks\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx64/x64/cl.exe",
+            "includePath": [
+                "${default}",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/Core/Public",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/CoreUObject/Public",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/Slate/Public",
+                "D:/Epic Games/UE_5.0/Engine/Source/Runtime/InputCore/Classes"
+            ]
+        }
+    ],
+    "version": 4
+}

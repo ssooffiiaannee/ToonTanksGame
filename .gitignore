@@ -1,3 +1,7 @@
+Build/
+Intermediate/
+Saved/
+Binaries/
 # Prerequisites
 *.d
 
